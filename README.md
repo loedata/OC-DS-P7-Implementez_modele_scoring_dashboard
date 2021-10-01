@@ -18,7 +18,7 @@ Elle décide donc de développer un dashboard interactif pour que les chargés d
 
 ## Mission
 - Construire un modèle de scoring qui donnera une prédiction sur la probabilité de faillite d'un client de façon automatique.
-- 
+
 ![P7_processus](https://user-images.githubusercontent.com/71518818/135584589-0b0b430e-dd90-41b8-9400-3d816cf7b83d.png)
 ![P7_model_1](https://user-images.githubusercontent.com/71518818/135585611-2371be6e-59f2-4f73-b52d-03ba7fdf413f.png)
 ![P7_model_2](https://user-images.githubusercontent.com/71518818/135585729-59a97537-0b97-4d29-b366-95dc53e8e3a1.png)
