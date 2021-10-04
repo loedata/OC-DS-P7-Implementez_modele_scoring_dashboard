@@ -11,10 +11,14 @@ De plus, les chargés de relation client ont fait remonter le fait que les clien
 
 Elle décide donc de développer un dashboard interactif pour que les chargés de relation client puissent à la fois expliquer de façon la plus transparente possible les décisions d’octroi de crédit, mais également permettre à leurs clients de disposer de leurs informations personnelles et de les explorer facilement. 
 
-## Les données
+## Source
 ![P7_données](https://user-images.githubusercontent.com/71518818/135585392-c274981e-5f4e-4ef7-bfa5-a739c819d939.png)
 
 [Source](https://www.kaggle.com/c/home-credit-default-risk/data)
+
+## Boîte à outils
+
+![P7_outils](https://user-images.githubusercontent.com/71518818/135909487-43397025-2931-4828-8396-dab5475b3b21.png)
 
 ## Mission
 - Construire un modèle de scoring qui donnera une prédiction sur la probabilité de faillite d'un client de façon automatique.
@@ -44,3 +48,15 @@ Il devra a minima contenir les fonctionnalités suivantes :
 ![P7_dashboard_6](https://user-images.githubusercontent.com/71518818/135586155-dec168be-2c08-4c7f-ad04-b386e94e0794.png)
 ![P7_dashboard_7](https://user-images.githubusercontent.com/71518818/135586188-bc26e9ba-7c03-4e7c-8874-a30f12dcf126.png)
 
+## Compétences
+
+- Présenter son travail de modélisation à l'oral.
+- Déployer un modèle via une API dans le Web.
+- Utiliser un logiciel de version de code pour assurer l’intégration du modèle.
+- Rédiger une note méthodologique afin de communiquer sa démarche de modélisation.
+- Réaliser un dashboard pour présenter son travail de modélisation.
+
+## Évaluation
+
+![P7_eval_1](https://user-images.githubusercontent.com/71518818/135909676-c564e99a-bd93-4ae0-8fb6-726a7a783fbc.png)
+![P7_eval_2](https://user-images.githubusercontent.com/71518818/135909733-5be09148-86d8-44a9-8c5d-0dace6a6062d.png)
